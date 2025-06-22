@@ -1,0 +1,94 @@
+MANDAVA JAHNAVI NITHEESHA
++91 9391525649, Narasaraopet, India mandavajahnavinitheesha@gmail.com LinkedIn GitHub
+
+Education
+
+·
+
+Shri Vishnu Engineering College for Women CSE - (Artifical Intelligence Machine Learning); GPA:
+
+9.79
+
+Bhimavaram,India September 2023 - September 2027
+
+Skills Summary
+
+· Languages:
+
+Java, Python, C, JavaScript, SQL
+
+· Frameworks: Flask, NodeJS, ExpressJS, ReactJS
+
+· Tools:
+
+Git, GitHub, Terminal
+
+· Databases:
+
+MySQL, MongoDB, SQLite3
+
+· Soft Skills:
+
+Leadership, Event Management,Public Speaking, Time Management
+
+Experience
+
+·
+
+InnoByte Services Python Developer Intern
+
+(Part-time)
+
+ Development - : Developed a Personal Financial Management System using Python
+
+ Datebase Integration - : Integrated SQLite3 for efficient data management
+
+ User Interface: Designed an intuitive Tkinter-based GUI for easy user interaction
+
+Remote Dec 2024 - Jan 2025
+
+Projects
+
+· Ocean View : (Project Link)
+
+October 2024
+
+Tech Stack : HTML and CSS
+
+Ensuring a clean, intuitive layout for seamless user experience. Developed sections highlighting beach safety, tourist guidelines, and essential travel insights. Backend integration is in progress, with upcoming features like real-time weather and tide updates.
+
+· Flight Management System : (Project Link)
+
+November 2024
+
+Tech Stack : JavaFX, Java, MySQL
+
+Developed an intuitive JavaFX-based interface for managing flight details, including bookings, cancellations, and journey information. Integrated MySQL for efficient storage and retrieval of flight and passenger data, ensuring smooth data management without transaction processing.
+
+· Airbnb Replica : (Project Link)
+
+February 2025
+
+Tech Stack : MongoDB, JavaScript, Express, Node.js, REST APIs
+
+Developed a full-stack Airbnb replica, enabling seamless property listing, editing, and deletion. Implemented user authentication, booking management, and review systems. Built a RESTful API with Node.js and Express, leveraging MongoDB for efficient data storage and retrieval, ensuring a scalable and dynamic platform.
+
+· Sleep Disorder Detection System : (Project Link)
+
+March 2025
+
+Tech Stack : Streamlit, Python, XGBoost, Joblib, Pandas, and NumPy
+
+Built a web app using Streamlit and Machine Learning to predict sleep disorders like Insomnia and Sleep Apnea. Users enter details like age, sleep time, and stress levels, and the app instantly gives results. The model is trained on real data and provides quick and accurate predictions.
+
+Coding profiles
+· LeetCode: leetcode.com/JahnaviMandava · HackerRank: hackerrank.com/JahnavinMandava
+
+Achievements
+· Smart India Hackathon (College Level) : Ranked among the top 10 out of 100 teams in the college-level Smart India Hackathon. Developed an innovative solution under strict deadlines, showcasing problem-solving, teamwork, and technical skills.
+· FFE Scholar : Awarded the prestigious Foundation for Excellence (FFE) Scholarship for outstanding academic performance and merit-based achievements.
+· Academic Achievement : Secured College Rank 2 in my first year's University Exam with a CGPA of 9.84.
+Position of Responsibility
+· Serving as Class Representative, facilitating communication between students and faculty, organizing academic activities, and addressing student concerns effectively.
+
+
